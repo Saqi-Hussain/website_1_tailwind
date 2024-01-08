@@ -201,5 +201,29 @@
         OurStory
       </button>
     </div>
+
+    <!-- picture button // connected speakers area -->
+    <div
+      style="
+        background-image: url(https://images.ctfassets.net/8cd2csgvqd3m/5dU3DUbSEonydEHBTOIo0U/fd0bf1cdf5ef840b786e1c05ac17ef36/LS_2020-06_BV-Harmony-65_Silver-Alu-Oak___BL18_Silver-Alu-Oak___BL19_Black-Brass-Straight_w_light-square.jpg?q=90&w=2048&fit=fill&fm=webp);
+      "
+      class="h-[75vh] mb-96 bg-cover bg-center bg-no-repeat flex items-center w-screen"
+    >
+      <div
+        class="text-white backdrop-brightness-[0.7] w-[80vw] md:w-[44vw] h-min ml-16 space-y-6 p-6"
+      >
+        <div class="text-5xl">Connected Speakers</div>
+        <div>
+          No cables, no fuss. Connect speakers quickly and easily through WiFi,
+          and be connected everywhere. Control the whole experience from the
+          palm of your hand: play what you want, the way you want.
+        </div>
+        <div
+          class="px-5 mt-8 font-semibold outline outline-white rounded-2xl bg-transparent transition duration-200 ease-in hover:bg-[#ffc356] hover:outline-none py-1 inline-block"
+        >
+          <button>Connected Speakers</button>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
