@@ -188,5 +188,18 @@
         </div>
       </div>
     </div>
+
+    <!--Our Story heading -->
+    <div class="flex flex-col items-center py-20 gap-5">
+      <div class="font-semibold text-slate-600 text-lg">BANG & OLUFSEN</div>
+      <div class="text-3xl md:text-4xl lg:text-5xl font font-[600] text-center">
+        Superior craft since 1925
+      </div>
+      <button
+        class="px-8 mt-8 text-black font-semibold border-2 border-black rounded-2xl bg-transparent transition duration-200 ease-in hover:bg-[#ffc356] hover:border-white py-1"
+      >
+        OurStory
+      </button>
+    </div>
   </div>
 </template>
