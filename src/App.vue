@@ -75,9 +75,7 @@
         class="min-h-[70vh] object-cover md:h-[90vh] w-screen"
         style="z-index: -10"
       >
-        <source
-          src="//videos.ctfassets.net/8cd2csgvqd3m/dYIVNsTpfHx8lHLyjEl5N/f1070edfaabcde05d5924e56c527acac/Beolab-8-video-home.mp4"
-        />
+        <source src="./assets/video/Beolab-8-video-home.mp4" />
       </video>
     </div>
     <div
@@ -102,7 +100,6 @@
     </div>
 
     <!-- 4 cards -->
-
     <div
       class="main md:mt-[2.5rem] lg:mt-[4rem] py-6 md:h-96 flex flex-col justify-center mt-[4rem]"
     >
