@@ -202,12 +202,21 @@
       </button>
     </div>
 
+    <!-- cutting/crafting video -->
+    <div class="p-20">
+      <video
+        autoplay
+        loop
+        src="//videos.ctfassets.net/8cd2csgvqd3m/sxXAwBnfBnfImWlDMXsaH/b57c7e3cf06623bf5883b59468492a1f/CraftMatters_Alu.mp4"
+      ></video>
+    </div>
+
     <!-- picture button // connected speakers area -->
     <div
       style="
         background-image: url(https://images.ctfassets.net/8cd2csgvqd3m/5dU3DUbSEonydEHBTOIo0U/fd0bf1cdf5ef840b786e1c05ac17ef36/LS_2020-06_BV-Harmony-65_Silver-Alu-Oak___BL18_Silver-Alu-Oak___BL19_Black-Brass-Straight_w_light-square.jpg?q=90&w=2048&fit=fill&fm=webp);
       "
-      class="h-[90vh] md:h-[75vh] mb-96 bg-cover bg-center bg-no-repeat flex items-center w-screen"
+      class="h-[90vh] md:h-[75vh] bg-cover bg-center bg-no-repeat flex items-center"
     >
       <div
         class="text-white backdrop-brightness-[0.7] w-[80vw] md:w-[44vw] h-min ml-16 space-y-6 p-6"
@@ -222,6 +231,39 @@
           class="px-5 mt-8 font-semibold outline outline-white rounded-2xl bg-transparent transition duration-200 ease-in hover:bg-[#ffc356] hover:outline-none py-1 inline-block"
         >
           <button>Connected Speakers</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Find Store -->
+    <div class="main flex justify-center items-center md:h-[75vh] bg-[#f5f4f3]">
+      <div
+        class="inner flex flex-col md:flex-row h-auto md:h-[50vh] mt-10 md:mt-0 mb-16 md:mb-0 bg-white overflow-hidden mx-3 md:mx-10"
+      >
+        <div class="mx-auto">
+          <img
+            src="https://images.ctfassets.net/8cd2csgvqd3m/2C4PDfprsTL0Z2UEZtvpvg/793a067fe33a8086e00f8cc6396586ca/Underc_111223-19.jpg?q=85&fm=webp&w=720&h=405&fit=fill"
+            alt=""
+            class="transform hover:scale-110 transition-transform duration-300 ease-in-out min-h-full"
+          />
+        </div>
+
+        <div
+          class="subInner flex flex-col items-start md:justify-center md:items-center space-y-5 px-5 py-5 md:py-0 md:px-20 min-w-[50vw] border border-yellow-300"
+        >
+          <div class="md:text-center text-lg font-semibold">
+            UP CLOSE AND PERSONAL
+          </div>
+          <div class="md:text-center text-3xl font-bold">Experience in store</div>
+          <div class="md:text-center text-sm font-[500] md:w-[28vw]">
+            Come by one of our stores to hear, see and feel Bang & Olufsen
+            yourself.
+          </div>
+          <button
+            class="px-8 mt-8 text-black font-semibold border-2 border-black rounded-2xl bg-transparent transition duration-200 ease-in hover:bg-[#ffc356] hover:border-white py-1"
+          >
+            Find store
+          </button>
         </div>
       </div>
     </div>
