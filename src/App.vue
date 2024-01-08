@@ -207,7 +207,7 @@
       style="
         background-image: url(https://images.ctfassets.net/8cd2csgvqd3m/5dU3DUbSEonydEHBTOIo0U/fd0bf1cdf5ef840b786e1c05ac17ef36/LS_2020-06_BV-Harmony-65_Silver-Alu-Oak___BL18_Silver-Alu-Oak___BL19_Black-Brass-Straight_w_light-square.jpg?q=90&w=2048&fit=fill&fm=webp);
       "
-      class="h-[75vh] mb-96 bg-cover bg-center bg-no-repeat flex items-center w-screen"
+      class="h-[90vh] md:h-[75vh] mb-96 bg-cover bg-center bg-no-repeat flex items-center w-screen"
     >
       <div
         class="text-white backdrop-brightness-[0.7] w-[80vw] md:w-[44vw] h-min ml-16 space-y-6 p-6"
