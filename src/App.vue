@@ -81,7 +81,7 @@
       </video>
     </div>
     <div
-      class="flex flex-col border-2 border-yellow-400 items-center md:items-start md:pl-20 -mt-[15rem] md:-mt-[17rem] mx-4 md:mx-0"
+      class="flex flex-col items-center md:items-start md:pl-20 -mt-[15rem] md:-mt-[17rem] mx-4 md:mx-0"
     >
       <div class="font-bold text-7xl text-white" style="z-index: 10">
         Beolab 8
