@@ -106,53 +106,85 @@
       <div
         class="inner mx-4 md:mx-20 flex flex-col gap-5 md:gap-0 md:flex-row justify-between md:space-x-2"
       >
-        <div class="md:w-[15.5rem]">
+        <div
+          class="flex flex-col items-center md:w-[15.5rem] hover:brightness-90 cursor-pointer"
+        >
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/7zxzNPdEmgcwLMu84yKyp5/94070bef5f1a26b7ce7edd814b066f2f/Beosound_A5_-_Rich_Media_-_Closeup.png?q=90&fm=webp&w=480&h=480&fit=fill"
             alt=""
-            class="hidden md:flex"
+            class="hidden md:flex brightness-75 transform hover:scale-110 transition-transform duration-300 ease-in-out"
+            style="z-index: -2"
           />
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/7zxzNPdEmgcwLMu84yKyp5/94070bef5f1a26b7ce7edd814b066f2f/Beosound_A5_-_Rich_Media_-_Closeup.png?q=90&fm=webp&w=480&h=240&fit=fill"
             alt=""
             class="md:hidden w-[100%] h-auto"
           />
+          <div
+            class="-mt-[3rem] text-white font-semibold text-2xl tracking-wide"
+          >
+            Speakers
+          </div>
         </div>
-        <div class="border md:w-[15.5rem]">
+        <div
+          class="flex flex-col items-center md:w-[15.5rem] hover:brightness-90 cursor-pointer"
+        >
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/rKK6o7IhiJ4ZKdMHByaEh/1bac9875ec112215d576f5f97c208bff/headphone2.png?q=90&fm=webp&w=480&h=480&fit=fill"
             alt=""
-            class="hidden md:flex"
+            class="hidden md:flex brightness-75 transform hover:scale-110 transition-transform duration-300 ease-in-out"
+            style="z-index: -2"
           />
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/rKK6o7IhiJ4ZKdMHByaEh/1bac9875ec112215d576f5f97c208bff/headphone2.png?q=90&fm=webp&w=480&h=240&fit=fill"
             alt=""
             class="md:hidden w-[100%] h-auto"
           />
+          <div
+            class="-mt-[3rem] text-white font-semibold text-2xl tracking-wide"
+          >
+            Headphones
+          </div>
         </div>
-        <div class="border md:w-[15.5rem]">
+        <div
+          class="flex flex-col items-center md:w-[15.5rem] hover:brightness-90 cursor-pointer"
+        >
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/3VKLdZqyWi2sYk0WleFLOK/967677d067aace59a0dab10fbc9fb3de/TV.png?q=90&fm=webp&w=480&h=480&fit=fill"
             alt=""
-            class="hidden md:flex"
+            class="hidden md:flex brightness-75 transform hover:scale-110 transition-transform duration-300 ease-in-out"
+            style="z-index: -2"
           />
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/3VKLdZqyWi2sYk0WleFLOK/967677d067aace59a0dab10fbc9fb3de/TV.png?q=90&fm=webp&w=480&h=240&fit=fill"
             alt=""
             class="md:hidden w-[100%] h-auto"
           />
+          <div
+            class="-mt-[3rem] text-white font-semibold text-2xl tracking-wide"
+          >
+            Televisions
+          </div>
         </div>
-        <div class="border md:w-[15.5rem]">
+        <div
+          class="flex flex-col items-center md:w-[15.5rem] hover:brightness-90 cursor-pointer"
+        >
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/4vXH4MKTOsMgJr4uiyulP8/49c6fcf4841855100e47b599580c4a5a/Soundbars.png?q=90&fm=webp&w=480&h=480&fit=fill"
             alt=""
-            class="hidden md:flex"
+            class="hidden md:flex brightness-75 transform hover:scale-110 transition-transform duration-300 ease-in-out"
+            style="z-index: -2"
           />
           <img
             src="https://images.ctfassets.net/8cd2csgvqd3m/4vXH4MKTOsMgJr4uiyulP8/49c6fcf4841855100e47b599580c4a5a/Soundbars.png?q=90&fm=webp&w=480&h=240&fit=fill"
             alt=""
             class="md:hidden w-[100%] h-auto"
           />
+          <div
+            class="-mt-[3rem] text-white font-semibold text-2xl tracking-wide"
+          >
+            Soundbars
+          </div>
         </div>
       </div>
     </div>
