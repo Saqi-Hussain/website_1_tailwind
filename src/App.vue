@@ -269,5 +269,40 @@
         </div>
       </div>
     </div>
+
+    <!-- Footer -->
+    <div class="main h-[70vh] bg-[#191817] text-white flex flex-col gap-10">
+      <div
+        class="innerMain flex flex-col md:flex-row gap-16 md:gap-0 lg:gap-10 h-auto md:mx-[7rem] mt-16 md:mt-32 lg:mt-52"
+      >
+        <div
+          class="subInner uppercase flex flex-col md:flex-row flex-wrap md:w-[80rem] items-center text-xl gap-5 md:gap-10 lg:gap-20 font-semibold"
+        >
+          <div class="options cursor-pointer">
+            Customer care<span class="mx-5">&#8964;</span>
+          </div>
+          <div class="options cursor-pointer">
+            our policies<span class="mx-5">&#8964;</span>
+          </div>
+          <div class="options cursor-pointer">
+            our company<span class="mx-5">&#8964;</span>
+          </div>
+          <div class="options cursor-pointer">
+            social links<span class="mx-5">&#8964;</span>
+          </div>
+          <div class="options cursor-pointer">
+            download our apps<span class="mx-5">&#8964;</span>
+          </div>
+        </div>
+        <div class="subInner text-2xl font-semibold text-center">
+          Lang: International 🌏
+        </div>
+      </div>
+      <div
+        class="innerMain text-center md:pl-28 text-sm md:text-start md:mt-9 font-[400]"
+      >
+        © Bang & Olufsen 2024
+      </div>
+    </div>
   </div>
 </template>
