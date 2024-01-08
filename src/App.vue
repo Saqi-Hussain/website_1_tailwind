@@ -203,13 +203,13 @@
     </div>
 
     <!-- cutting/crafting video -->
-    <div class="p-20">
-      <video
-        autoplay
-        loop
-        src="//videos.ctfassets.net/8cd2csgvqd3m/sxXAwBnfBnfImWlDMXsaH/b57c7e3cf06623bf5883b59468492a1f/CraftMatters_Alu.mp4"
-      ></video>
-    </div>
+
+    <video
+      autoplay
+      loop
+      src="//videos.ctfassets.net/8cd2csgvqd3m/sxXAwBnfBnfImWlDMXsaH/b57c7e3cf06623bf5883b59468492a1f/CraftMatters_Alu.mp4"
+      class="min-h-[70vh] object-cover md:h-full w-screen p-10 md:p-14 lg:p-20"
+    ></video>
 
     <!-- picture button // connected speakers area -->
     <div
@@ -249,12 +249,14 @@
         </div>
 
         <div
-          class="subInner flex flex-col items-start md:justify-center md:items-center space-y-5 px-5 py-5 md:py-0 md:px-20 min-w-[50vw] border border-yellow-300"
+          class="subInner flex flex-col items-start md:justify-center md:items-center space-y-5 px-5 py-5 md:py-0 md:px-20 min-w-[50vw] 0"
         >
           <div class="md:text-center text-lg font-semibold">
             UP CLOSE AND PERSONAL
           </div>
-          <div class="md:text-center text-3xl font-bold">Experience in store</div>
+          <div class="md:text-center text-3xl font-bold">
+            Experience in store
+          </div>
           <div class="md:text-center text-sm font-[500] md:w-[28vw]">
             Come by one of our stores to hear, see and feel Bang & Olufsen
             yourself.
