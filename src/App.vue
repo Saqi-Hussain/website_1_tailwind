@@ -207,6 +207,7 @@
     <video
       autoplay
       loop
+      muted
       src="//videos.ctfassets.net/8cd2csgvqd3m/sxXAwBnfBnfImWlDMXsaH/b57c7e3cf06623bf5883b59468492a1f/CraftMatters_Alu.mp4"
       class="min-h-[70vh] object-cover md:h-full w-screen p-10 md:p-14 lg:p-20"
     ></video>
