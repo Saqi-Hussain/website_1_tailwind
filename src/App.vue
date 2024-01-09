@@ -123,13 +123,13 @@
 
         <!-- 4 cards -->
         <div
-          class="main md:mt-[2.5rem] lg:mt-[4rem] py-6 md:h-96 flex flex-col justify-center mt-[4rem]"
+          class="main md:mt-[2.5rem] lg:mt-[4rem] py-6 lg:py-0 md:h-96 flex flex-col justify-center mt-[4rem]"
         >
           <div
-            class="inner mx-4 md:mx-20 flex flex-col gap-5 md:gap-0 md:flex-row justify-between md:space-x-2 xl:mx-[15rem] 2xl:mx-[40rem]"
+            class="inner mx-4 md:mx-20 flex flex-col gap-5 md:gap-0 md:flex-row justify-between lg:justify-center md:space-x-2 lg:space-x-10   "
           >
             <div
-              class="flex flex-col items-center md:w-[15.5rem] hover:brightness-90 cursor-pointer"
+              class="flex flex-col items-center md:w-[15.5rem]  hover:brightness-90 cursor-pointer"
             >
               <img
                 src="https://images.ctfassets.net/8cd2csgvqd3m/7zxzNPdEmgcwLMu84yKyp5/94070bef5f1a26b7ce7edd814b066f2f/Beosound_A5_-_Rich_Media_-_Closeup.png?q=90&fm=webp&w=480&h=480&fit=fill"
