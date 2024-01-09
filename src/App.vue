@@ -73,6 +73,7 @@
         autoplay
         loop
         muted
+        controls
         class="min-h-[70vh] object-cover md:h-[90vh] w-screen"
         style="z-index: -10"
       >
