@@ -105,7 +105,7 @@
       class="main md:mt-[2.5rem] lg:mt-[4rem] py-6 md:h-96 flex flex-col justify-center mt-[4rem]"
     >
       <div
-        class="inner mx-4 md:mx-20 flex flex-col gap-5 md:gap-0 md:flex-row justify-between md:space-x-2"
+        class="inner mx-4 md:mx-20 flex flex-col gap-5 md:gap-0 md:flex-row justify-between md:space-x-2 xl:mx-[15rem] 2xl:mx-[40rem]"
       >
         <div
           class="flex flex-col items-center md:w-[15.5rem] hover:brightness-90 cursor-pointer"
