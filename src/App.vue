@@ -73,8 +73,7 @@
         autoplay
         loop
         muted
-        controls
-        class="min-h-[70vh] object-cover md:h-[90vh] w-screen"
+        class="min-h-[70vh] object-cover md:h-[90vh] w-screen bg-white"
         style="z-index: -10"
       >
         <source src="./assets/video/Beolab-8-video-home.mp4" />
