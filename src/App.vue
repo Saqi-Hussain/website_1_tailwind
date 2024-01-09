@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- pre-loader -->
-    <transition name="curtains" mode="out-in">
+    <transition name="curtains" mode="in-out">
       <div
         v-show="isLoading"
         key="loading"
@@ -395,13 +395,13 @@ export default {
 
 .curtains-enter-active,
 .curtains-leave-active {
-  transition: opacity 1s, transform 1.5s;
+  transition: opacity 1s, transform 1s;
 }
 
 .curtains-enter,
 .curtains-leave-to {
   opacity: 0;
-  transform: translateX(0) scaleY(2);
+  transform:  scaleX(-1);
   
 }
 </style>
